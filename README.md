@@ -17,7 +17,6 @@ I'm Uruc, a Cybersecurity Analyst and Data Scientist with a strong engineering b
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/uruc/)
-- [GitHub](https://github.com/uruc)
 
 Explore my projects and let's collaborate on innovative solutions!
 
