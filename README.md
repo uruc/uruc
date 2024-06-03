@@ -11,7 +11,7 @@ I'm Uruc, a Cybersecurity Analyst and Data Scientist with a strong engineering b
 ## Skills
 
 - **Programming**: Python, R
-- **Tools**: IBM QRadar, Splunk, Nessus, FireEye HX
+- **Tools**: QRadar, Splunk, Nessus, Wazuh
 - **Techniques**: Statistical analysis, data visualization, deep learning (CNNs, RNNs)
 
 ## Connect with Me
