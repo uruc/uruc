@@ -7,9 +7,21 @@ I'm Uruc, a Cybersecurity Analyst and Data Scientist with a strong engineering b
 - **Engineering**: Materials characterization, process optimization, quality control.
 
 ## Skills
-- **Programming**: Python, R
-- **Tools**: QRadar, Splunk, Nessus, Wazuh
-- **Techniques**: Statistical analysis, data visualization, deep learning (CNNs, RNNs)
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | Detection Lab|
+| Network Traffic Monitoring and Attack Detection | Detection Lab|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+- **Network**: Wireshark, Burp Suite, Nmap, tcpdump, Zeek
+- **SIEM**: QRadar, Splunk, Elastic Stack, Wazuh
+- **Endpoint**: Sysmon, Velociraptor, Volatility
+- **Programming**: Scripting, Regex, Neutral Networks
+
 
 ## Connect with Me
 <a href="[https://linkedin.com](https://www.linkedin.com/in/uruc)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> \
