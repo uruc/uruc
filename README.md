@@ -24,5 +24,5 @@ I'm Uruc, a Cybersecurity Analyst and Data Scientist with a strong engineering b
 
 
 ## Connect with Me
-<a href="https://linkedin.com/uruc"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> \
+<a href="https://linkedin.com/in/uruc"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> \
 Explore my projects and let's collaborate on innovative solutions!
