@@ -1,4 +1,3 @@
-## Hi there 👋
 I'm Uruc, a Cybersecurity Analyst and Data Scientist with a strong engineering background. I love tackling complex problems and enhancing security operations through data-driven solutions.
 
 ## About Me
